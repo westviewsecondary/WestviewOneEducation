@@ -1,0 +1,17 @@
+ONEEDUCATION — VISUAL REFRESH ONLY
+
+Replace ONE file in your EXISTING OneEducation GitHub repository:
+styles.css
+
+Commit the change, wait for GitHub Pages to finish publishing, then refresh
+with Ctrl + Shift + R. The staff and student screens both use this file.
+
+No SQL to run. No JavaScript, HTML or config files need replacing.
+All features, students, codes, PDFs, control-room settings and database
+connections stay as they are. This changes appearance only.
+
+Rounded OneHome/OneSixth styling, soft surfaces and a white sidebar,
+while retaining OneEducation's emerald identity and status colours.
+
+This stylesheet is based on your most recent OneEducation School Hub build.
+Keep a copy of your current styles.css if you want to restore its old look.
